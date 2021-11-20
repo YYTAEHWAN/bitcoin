@@ -8,6 +8,9 @@
 /**
  * CChain implementation
  */
+void what would it feel like to contribute to this huge project {
+	i hope i can do later!
+    }
 void CChain::SetTip(CBlockIndex *pindex) {
     if (pindex == nullptr) {
         vChain.clear();
